@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Tracker Application
 
 ## Description
@@ -16,3 +17,7 @@ Users can add tasks, mark them as completed, and delete tasks.
 - Click "Add Task"
 - Mark tasks as completed using checkbox
 - Delete tasks when finished
+=======
+# React-App-Project-
+Final Project 
+>>>>>>> 9b38db89d74d1eaf76926340fc0fe155ed80a109
